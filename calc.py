@@ -28,3 +28,6 @@ def square(a):
 # 나머지 함수
 def mod(a, b):
     return a % b
+
+
+# test
